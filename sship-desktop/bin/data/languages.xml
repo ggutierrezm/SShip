@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+   <!-- English -->
+   <language name="en_EN" >
+      <!--  Menu  -->
+      <string key="Tutorial" value="Tutorial" />      
+      <string key="Play" value="Play" />
+      <string key="About" value="About" />
+      <string key="Configuration" value="Setup" />
+      <string key="New game" value="New game" />
+      <string key="Points: %d" value="Points: %d" />
+      <string key="Lives: %d" value="Lives: %d" />
+      <string key="Touch the button to go up" value="Touch the button to go up" />
+      <string key="Keep touching" value="Keep touching" />
+      <string key="Touch the button to shoot" value="Touch the button to shoot" />
+      <string key="Keep shooting" value="Keep shooting" />      
+      <string key="You get %d points" value="You get %d points" />
+      
+   </language>
+   <!-- Spanish -->
+   <language name="es_ES" >
+      <!--  Menu  -->
+      <string key="Tutorial" value="Tutorial" />
+      <string key="Play" value="Jugar" />
+      <string key="About" value="Acerca de..." />
+      <string key="Configuration" value="Configurar" />
+      <string key="New game" value="Volver" />
+      <string key="Points: %d" value="Puntos: %d" />
+      <string key="Lives: %d" value="Vidas: %d" />
+      <string key="Touch the button to go up" value="Toca el botón para subir" />
+      <string key="Keep touching" value="Sigue tocando" />
+      <string key="Touch the button to shoot" value="Toca el botón para disparar" />
+      <string key="Keep shooting" value="Sigue disparando" />
+      <string key="You get %d points" value="Has conseguido %d puntos" />
+   </language>
+    <language name="de_DE" >
+      <!--  Menu  -->
+      <string key="Tutorial" value="Tutorial" />
+      <string key="Play" value="Spielen" />
+      <string key="About" value="Über..." />
+      <string key="Configuration" value="Einstellung" />
+      <string key="New game" value="Neu Spiel" />
+      <string key="Points: %d" value="Punkte: %d" />
+      <string key="Lives: %d" value="Leben: %d" />
+      <string key="Touch the button to go up" value="Berühren um nach oben" />
+      <string key="Keep touching" value="Berühren nochmal" />
+      <string key="Touch the button to shoot" value="Berühren zum schiessen" />
+      <string key="Keep shooting" value="Schiessen nochmal" />
+      <string key="You get %d points" value="Sie erhalten %d Punkte" />
+   </language>
+</languages>
